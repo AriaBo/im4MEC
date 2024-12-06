@@ -44,9 +44,16 @@ print(df.head(10))
 #save the dataframe in the right format
 df = df[['slide_id', 'class', 'label', 'fold-0', 'fold-1', 'fold-2', 'fold-3', 'fold-4']]
  
-print(df.head(10))
+#before saving make sure that the column "label" is in integer format
+
+df = df.dropna(subset=['label'])
+df['label'] = df['label'].astype(int) 
+#print(df.head(10))
+print(df)
 
 #save the dataframe as train.csv
-df.to_csv('/mnt/bulk-curie/arianna/HECTOR/HECTOR/train.csv', index=False)
+df.to_csv('/mnt/bulk-curie/arianna/im4MEC/im4MEC/train.csv', index=False)
 
+#323 rows to train the model
 
+# %%

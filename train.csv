@@ -1,0 +1,324 @@
+slide_id,class,label,fold-0,fold-1,fold-2,fold-3,fold-4
+slide-2024-07-19T09-32-36-R1-S13,low,0,validation,validation,training,training,training
+slide-2024-07-19T09-40-22-R1-S15,low,0,training,validation,training,validation,training
+slide-2024-07-19T09-44-51-R1-S16,low,0,training,validation,training,training,training
+slide-2024-07-19T09-49-06-R1-S17,low,0,training,training,training,training,training
+slide-2024-07-19T09-55-43-R1-S19,low,0,training,training,validation,training,training
+slide-2024-07-19T09-57-51-R1-S20,low,0,training,training,training,training,validation
+slide-2024-07-19T10-02-00-R1-S21,high,1,training,training,training,validation,validation
+slide-2024-07-19T10-05-22-R1-S22,high,1,validation,training,training,training,training
+slide-2024-07-19T10-14-40-R1-S25,low,0,training,training,training,training,training
+slide-2024-07-19T10-28-48-R2-S3,low,0,training,training,training,training,training
+slide-2024-07-19T10-30-38-R2-S4,low,0,training,training,training,training,validation
+slide-2024-07-19T10-40-21-R2-S6,low,0,training,training,training,validation,training
+slide-2024-07-19T10-44-11-R2-S7,low,0,training,training,training,training,training
+slide-2024-07-19T10-48-08-R2-S8,low,0,training,training,training,training,training
+slide-2024-07-19T10-52-19-R2-S9,low,0,training,training,training,validation,validation
+slide-2024-07-19T10-56-06-R2-S10,high,1,training,training,validation,validation,validation
+slide-2024-07-19T11-08-46-R2-S13,high,1,validation,training,training,training,training
+slide-2024-07-19T11-18-49-R2-S15,low,0,training,training,training,training,training
+slide-2024-07-19T11-26-52-R2-S17,low,0,training,validation,training,validation,training
+slide-2024-07-10T13-39-26-R1-S1,high,1,training,training,validation,training,training
+slide-2024-07-10T13-54-43-R1-S4,low,0,training,training,training,training,training
+slide-2024-07-10T14-03-27-R1-S6,low,0,training,training,training,training,training
+slide-2024-07-10T14-16-24-R1-S10,high,1,validation,validation,validation,validation,training
+slide-2024-07-10T15-04-32-R1-S21,low,0,training,validation,training,training,training
+slide-2024-07-11T08-45-08-R1-S3,low,0,validation,training,training,training,validation
+slide-2024-07-11T08-50-59-R1-S4,low,0,validation,training,training,training,training
+slide-2024-07-11T08-56-09-R1-S5,low,0,training,validation,validation,training,training
+slide-2024-07-11T08-58-36-R1-S6,low,0,training,validation,validation,validation,training
+slide-2024-07-11T09-07-31-R1-S8,low,0,training,training,training,training,training
+slide-2024-07-11T09-10-33-R1-S9,low,0,validation,training,training,training,training
+slide-2024-07-11T09-30-00-R1-S14,high,1,training,training,training,validation,training
+slide-2024-07-11T09-43-01-R1-S17,low,0,training,training,training,training,training
+slide-2024-07-11T09-55-39-R1-S20,low,0,training,training,training,training,validation
+slide-2024-07-11T10-00-58-R1-S21,low,0,training,training,training,validation,training
+slide-2024-07-11T10-06-09-R1-S22,low,0,training,validation,validation,training,training
+slide-2024-07-11T10-24-00-R1-S1,low,0,training,training,training,validation,validation
+slide-2024-07-11T10-32-37-R1-S3,low,0,validation,training,training,validation,training
+slide-2024-07-11T10-35-35-R1-S4,high,1,training,validation,validation,training,training
+slide-2024-07-11T10-39-23-R1-S5,low,0,validation,training,training,training,validation
+slide-2024-07-11T10-50-27-R1-S7,low,0,training,training,training,training,training
+slide-2024-07-11T11-13-53-R1-S13,low,0,training,training,training,validation,validation
+slide-2024-07-11T11-18-29-R1-S14,low,0,training,training,validation,training,training
+slide-2024-07-11T11-26-40-R1-S16,low,0,training,training,training,training,training
+slide-2024-07-11T11-29-24-R1-S17,low,0,training,validation,training,training,training
+slide-2024-07-11T11-34-15-R1-S18,low,0,training,training,training,training,validation
+slide-2024-07-11T11-38-33-R1-S19,low,0,validation,training,validation,training,training
+slide-2024-07-11T11-42-38-R1-S20,low,0,validation,validation,training,training,training
+slide-2024-07-11T11-45-20-R1-S21,low,0,training,training,training,training,training
+slide-2024-07-11T11-50-02-R1-S22,low,0,training,training,training,training,validation
+slide-2024-07-11T13-21-18-R1-S1,low,0,training,training,training,training,training
+slide-2024-07-11T13-25-05-R1-S2,low,0,training,training,training,validation,training
+slide-2024-07-11T13-32-51-R1-S4,low,0,training,training,validation,training,training
+slide-2024-07-11T13-41-33-R1-S6,low,0,training,training,training,training,training
+slide-2024-07-11T13-45-58-R1-S7,low,0,training,validation,training,training,training
+slide-2024-07-11T13-49-38-R1-S8,low,0,training,training,training,training,training
+slide-2024-07-11T13-53-04-R1-S9,low,0,validation,validation,training,training,training
+slide-2024-07-11T13-59-12-R1-S10,low,0,training,training,training,training,training
+slide-2024-07-11T14-03-36-R1-S11,low,0,validation,training,training,training,training
+slide-2024-07-11T14-09-09-R1-S12,low,0,training,training,training,training,training
+slide-2024-07-11T14-12-16-R1-S13,low,0,training,training,validation,training,training
+slide-2024-07-11T14-18-27-R1-S14,low,0,training,training,training,training,training
+slide-2024-07-11T14-21-35-R1-S15,low,0,training,training,training,validation,training
+slide-2024-07-11T14-27-23-R1-S16,low,0,training,training,training,training,training
+slide-2024-07-11T14-31-44-R1-S17,low,0,training,training,training,validation,training
+slide-2024-07-11T14-35-19-R1-S18,low,0,training,training,training,training,validation
+slide-2024-07-11T14-38-29-R1-S19,low,0,validation,training,training,training,training
+slide-2024-07-11T14-42-01-R1-S20,low,0,training,training,training,validation,training
+H_2023_006568,low,0,training,training,training,training,training
+H_2021_023796,low,0,training,training,training,training,validation
+H_2021_007977,low,0,training,validation,training,training,training
+H_2016_023565,high,1,training,training,validation,training,training
+H_2016_011925,low,0,training,training,training,training,training
+H_2016_004908,low,0,training,training,validation,validation,training
+H_2015_000240,low,0,training,training,training,validation,training
+H_2016_004328,low,0,training,validation,validation,training,training
+H_2014_010983,low,0,training,training,validation,training,training
+T43-03,high,1,training,training,training,training,training
+T64-03,low,0,training,training,training,validation,training
+T89-03,low,0,training,validation,training,validation,training
+T102-03,high,1,training,training,training,training,training
+T174-03,high,1,training,training,training,training,training
+T245-03,low,0,training,training,training,validation,training
+T19-04,high,1,training,training,validation,validation,training
+slide-2024-07-17T08-51-25-R1-S9,low,0,training,training,training,training,training
+slide-2024-07-17T08-55-36-R1-S10,low,0,training,training,validation,training,training
+slide-2024-07-17T09-01-21-R1-S11,low,0,validation,validation,training,training,training
+slide-2024-07-17T09-06-06-R1-S12,low,0,training,training,training,training,training
+slide-2024-07-17T09-19-59-R1-S15,low,0,training,training,validation,training,training
+slide-2024-07-17T09-39-48-R1-S19,low,0,training,validation,training,training,training
+slide-2024-07-17T09-43-21-R1-S20,low,0,training,training,training,training,training
+slide-2024-07-17T09-47-50-R1-S21,low,0,training,training,validation,validation,training
+slide-2024-07-17T09-59-58-R1-S24,low,0,training,training,training,validation,training
+slide-2024-07-17T10-02-52-R1-S25,low,0,training,training,training,training,training
+slide-2024-07-17T10-11-37-R2-S2,low,0,training,training,training,validation,training
+slide-2024-07-17T10-22-57-R2-S4,low,0,training,training,training,training,training
+slide-2024-07-17T10-31-44-R2-S6,low,0,training,validation,training,training,training
+slide-2024-07-17T10-35-36-R2-S7,low,0,training,training,training,training,training
+slide-2024-07-17T10-40-11-R2-S8,low,0,training,training,training,training,validation
+slide-2024-07-17T10-56-39-R2-S12,low,0,validation,validation,validation,training,training
+slide-2024-07-17T11-07-19-R2-S15,low,0,training,training,training,training,training
+slide-2024-07-17T11-12-22-R2-S16,low,0,training,training,training,training,validation
+slide-2024-07-17T11-17-12-R2-S17,low,0,training,training,training,training,training
+slide-2024-07-17T11-41-34-R2-S22,low,0,validation,training,training,validation,training
+slide-2024-07-17T11-46-28-R2-S23,low,0,training,training,training,validation,training
+slide-2024-07-18T08-05-51-R1-S1,low,0,training,training,training,training,training
+slide-2024-07-18T08-14-55-R1-S3,low,0,training,training,training,training,validation
+slide-2024-07-24T09-49-28-R1-S1,low,0,training,training,training,training,validation
+slide-2024-07-18T08-15-59-R1-S4,low,0,training,validation,training,training,training
+slide-2024-07-18T08-22-15-R1-S6,low,0,training,training,validation,training,training
+slide-2024-07-18T08-26-32-R1-S7,low,0,training,validation,training,training,training
+slide-2024-07-18T08-35-41-R1-S9,low,0,training,training,training,training,training
+slide-2024-07-18T08-40-17-R1-S10,low,0,training,training,training,training,training
+slide-2024-07-18T08-43-59-R1-S11,low,0,training,training,training,training,training
+slide-2024-07-18T09-07-02-R1-S16,low,0,training,training,training,validation,training
+DN691,high,1,training,training,validation,training,training
+DP112,low,0,validation,training,training,training,training
+EN733,high,1,training,training,training,validation,training
+FA815,high,1,training,training,validation,training,validation
+FA831,high,1,training,validation,training,training,validation
+FB124,low,0,training,training,validation,training,training
+FC472,high,1,validation,training,validation,training,training
+FD75,high,1,training,validation,training,training,training
+FE580,high,1,training,training,validation,training,training
+FL95,high,1,training,validation,training,training,training
+FU746,high,1,training,training,training,training,training
+FW792,high,1,training,training,validation,training,training
+FX240,high,1,training,validation,training,training,validation
+GD946,high,1,training,training,training,training,validation
+GH755,high,1,validation,validation,training,validation,training
+GJ678,high,1,training,training,training,validation,training
+GN797,low,0,training,training,validation,training,training
+GO558,high,1,training,training,training,training,training
+GP831,high,1,validation,validation,validation,training,training
+GS158,high,1,training,training,training,training,training
+GS833,high,1,training,validation,training,training,training
+GT66,low,0,training,training,training,training,validation
+GT85,high,1,validation,validation,training,training,training
+GU871,high,1,training,training,validation,training,training
+GU937,high,1,training,training,training,training,training
+GX496,low,0,validation,training,training,training,training
+GX700,high,1,validation,training,training,training,training
+GX874,high,1,training,training,training,validation,training
+GY185,high,1,training,training,training,validation,training
+GY573,high,1,training,training,training,training,validation
+GZ207,high,1,training,training,training,training,training
+GZ444,high,1,training,training,validation,training,training
+GZ466,high,1,validation,validation,training,training,training
+HA279,low,0,training,training,training,training,validation
+HA914,high,1,training,validation,training,validation,training
+HB242,low,0,training,training,training,validation,validation
+HC393,low,0,training,training,training,training,validation
+HC642,low,0,training,training,training,training,training
+HE556,high,1,training,validation,training,training,training
+HF253,high,1,training,training,validation,training,training
+HF614,high,1,validation,training,training,training,training
+HI160,low,0,validation,training,training,training,training
+HI239,high,1,training,validation,training,training,training
+HI662,low,0,validation,training,training,training,validation
+HJ275,high,1,training,training,validation,training,training
+HJ300,low,0,training,validation,training,training,training
+HJ383,low,0,training,validation,training,training,training
+HJ50,high,1,training,training,training,validation,training
+HK403,low,0,validation,validation,validation,training,training
+HK872,high,1,training,training,training,training,training
+HL840,high,1,validation,validation,training,validation,training
+HM210,low,0,training,validation,validation,validation,validation
+HM284,low,0,training,training,training,training,training
+HM504,low,0,training,validation,validation,training,training
+HN12,low,0,training,training,training,training,training
+HN328,low,0,training,training,validation,training,validation
+HN759,low,0,validation,training,training,training,training
+HN851,high,1,training,training,training,training,training
+HO16,high,1,validation,training,training,validation,training
+HO545,low,0,training,training,training,training,training
+HR129,high,1,validation,training,validation,training,training
+HR692,low,0,validation,training,training,training,training
+HS902,high,1,validation,training,training,training,training
+HT360,high,1,training,training,validation,training,training
+HT546,low,0,training,validation,training,training,training
+HT646,low,0,training,training,training,training,training
+HU28,high,1,training,validation,training,validation,training
+HU443,low,0,validation,training,validation,validation,training
+HU471,low,0,training,training,training,training,training
+HU574,low,0,validation,training,training,training,validation
+HV392,low,0,training,training,training,training,validation
+HV477,high,1,training,training,training,validation,training
+HV86,low,0,validation,training,training,training,training
+HW916,low,0,training,training,training,training,training
+HX280,low,0,validation,validation,training,training,training
+HX361,low,0,training,training,training,training,training
+HX390,low,0,training,training,validation,training,training
+HX560,high,1,validation,training,training,training,validation
+HX655,low,0,training,training,training,training,training
+HX942,low,0,training,training,training,training,validation
+HY425,low,0,training,validation,validation,validation,training
+IA250,high,1,validation,validation,training,training,validation
+IB209,low,0,training,training,validation,training,training
+IB314,low,0,validation,training,training,training,training
+IC691,low,0,training,training,training,training,training
+IC893,low,0,validation,training,training,training,training
+ID449,low,0,training,training,training,training,training
+IE195,low,0,validation,validation,training,validation,validation
+IE691,low,0,validation,training,training,training,training
+IE997,low,0,training,training,validation,training,training
+IF244,low,0,training,training,training,training,training
+IF556,low,0,validation,training,training,validation,validation
+IF57,low,0,training,validation,validation,training,training
+IG519,low,0,training,training,validation,training,training
+IG592,low,0,training,training,training,training,training
+IG768,low,0,training,training,training,training,training
+II312,low,0,training,training,training,training,training
+II362,low,0,validation,validation,training,training,training
+II908,high,1,training,training,validation,training,validation
+IM256,low,0,training,validation,validation,validation,training
+IM762,high,1,training,training,training,training,training
+IN639,high,1,training,training,validation,training,training
+IN898,low,0,training,training,validation,training,training
+IO885,high,1,validation,training,training,validation,training
+IP30,low,0,training,validation,training,validation,training
+IR980,low,0,training,training,training,training,training
+IS440,low,0,validation,training,training,training,validation
+IU59,low,0,validation,training,training,training,training
+IW876,low,0,training,training,training,training,validation
+IY500,low,0,validation,training,training,training,training
+IY85,low,0,training,training,training,validation,training
+JC634,low,0,training,training,training,training,training
+JC815,low,0,training,training,training,validation,validation
+JD299,low,0,training,validation,training,validation,training
+JF405,high,1,training,validation,training,validation,training
+JF44,high,1,training,training,training,validation,training
+JH432,high,1,training,training,validation,training,training
+JH558,low,0,training,training,training,training,training
+JH695,low,0,training,training,validation,training,training
+JI724,low,0,training,training,validation,training,validation
+JN251,low,0,training,training,training,training,training
+JO653,high,1,training,training,validation,training,training
+JQ108,low,0,training,training,training,validation,training
+JX551,low,0,validation,training,training,training,validation
+KB419,low,0,validation,training,training,training,training
+KH479,low,0,validation,training,training,training,training
+KI917,low,0,training,training,training,training,training
+KI996,low,0,training,training,training,training,validation
+KK364,low,0,validation,validation,training,training,training
+KN597,low,0,training,training,validation,validation,training
+KO346,low,0,training,validation,training,training,training
+,low,0,training,validation,training,training,training
+KP223,high,1,training,training,validation,validation,training
+KS327,low,0,training,training,training,training,training
+KS631,low,0,training,training,training,validation,validation
+KT493,low,0,training,training,training,validation,training
+KU634,high,1,training,training,training,training,validation
+KU947,low,0,training,training,training,training,training
+KW242,low,0,training,training,training,training,training
+KW708,low,0,validation,training,training,training,training
+ky856,low,0,training,training,training,training,training
+kz587,low,0,training,training,training,validation,training
+LA225,low,0,training,training,training,training,training
+ld539,low,0,training,training,validation,training,training
+LG346-01-003-001 - 2024-06-11 10.50.07,low,0,training,training,training,training,validation
+LH811,low,0,training,training,training,training,validation
+LI287,low,0,training,training,training,training,training
+LI332-01-003 - 2024-05-03 10.44.10,low,0,training,training,training,training,training
+LJ451,high,1,training,training,training,training,training
+LK470,high,1,training,validation,training,training,training
+LN077,high,1,training,training,validation,training,training
+LS194,low,0,training,training,training,validation,validation
+LU620,high,1,training,validation,training,training,training
+LX291,high,1,training,training,validation,training,training
+LX797-01-003-001 - 2024-05-03 10.49.19,low,0,training,training,training,training,training
+LZ405,low,0,validation,training,training,training,training
+MA582,low,0,training,training,training,training,validation
+MA722,low,0,validation,training,training,training,training
+MD213,low,0,training,validation,training,training,validation
+MD795,low,0,validation,training,training,training,training
+MF005,low,0,training,training,training,training,training
+MF220-01-003-001 - 2024-05-03 10.57.59,low,0,training,training,training,validation,validation
+MG103,high,1,training,training,training,training,training
+MG290,low,0,training,training,training,validation,validation
+MI224,low,0,training,training,training,training,training
+MI266,high,1,training,training,training,training,training
+MI793,low,0,training,validation,training,training,training
+MJ012,high,1,training,training,training,training,training
+MJ831,low,0,training,training,training,training,training
+ML579,low,0,training,training,training,validation,validation
+ML717,high,1,training,training,training,training,training
+MM767,low,0,training,training,training,training,validation
+MO310-01-001 - 2024-05-03 11.13.34,low,0,validation,training,training,training,training
+MQ201,low,0,training,training,training,training,training
+NA153,low,0,training,training,training,training,training
+NC734,low,0,training,training,validation,training,validation
+ND580,low,0,training,training,training,training,training
+NF799-01-001 - 2024-05-03 11.17.42,low,0,training,validation,training,training,training
+NH474,low,0,training,training,training,training,training
+NH573 - 2024-02-15 18.45.16,low,0,training,training,validation,training,validation
+NJ719-20PM01 - 2024-02-19 16.16.13,low,0,training,training,training,training,training
+NK824 - 2024-02-15 19.12.36,low,0,validation,training,validation,training,training
+NL209-01-010-001 - 2024-05-03 11.20.15,low,0,validation,training,validation,training,validation
+NL515 - 2024-02-15 19.16.30,low,0,training,training,validation,training,training
+NM846 - 2024-02-15 19.27.23,high,1,training,validation,training,validation,training
+NP733 - 2024-02-15 19.46.54,low,0,training,training,training,training,validation
+NQ448-01-002-001 - 2024-05-03 11.22.20,high,1,training,training,training,training,training
+NQ884 - 2024-02-15 19.55.47,low,0,training,training,training,validation,training
+NV540 - 2024-02-15 20.22.45,low,0,training,training,training,training,training
+NV593 - 2024-02-15 20.24.58,low,0,training,validation,validation,training,training
+OD911 - 2024-02-16 10.40.50,low,0,training,training,training,training,training
+OK660 - 2024-02-16 11.07.37,low,0,training,training,training,training,training
+OL794 - 2024-02-16 11.12.27,low,0,training,training,training,training,training
+OM189 - 2024-02-16 11.15.36,low,0,training,training,training,training,training
+OM733-01-001 - 2024-05-03 11.25.33,low,0,training,training,training,training,training
+ON724 - 2024-02-16 11.23.40,low,0,training,training,training,training,training
+OQ977 - 2024-02-16 11.32.58,high,1,validation,training,training,training,validation
+OW767 - 2024-02-16 11.50.12,low,0,training,training,validation,training,training
+PD876 - 2024-02-17 10.09.34,low,0,training,training,training,training,validation
+PF815 - 2024-02-17 10.22.06,low,0,training,training,training,training,validation
+PG210 - 2024-02-17 10.27.35,low,0,training,validation,training,training,training
+PI123 - 2024-02-17 10.39.44,low,0,training,training,training,training,training
+PP173-22PM01 - 2024-02-19 17.06.21,high,1,training,training,training,training,training
+PQ823-01-003-001 - 2024-05-03 11.31.12,low,0,validation,training,validation,training,validation
+PT374 - 2024-02-17 11.12.42,high,1,training,training,training,training,training
+PZ479 - 2024-02-17 11.36.05,high,1,validation,validation,training,training,training
+QH180-01-007-001 - 2024-05-03 11.33.27,low,0,training,training,training,training,training
+QK114-01-001 - 2024-05-28 11.40.20,low,0,training,training,training,training,validation
+QV912-01-005-001 - 2024-05-03 11.38.50,high,1,validation,training,training,training,training

@@ -44,7 +44,7 @@ def collate(batch):
 
 
 def get_feature_bag_path(data_dir, slide_id):
-    return os.path.join(data_dir, f"{slide_id}_features.h5")
+    return os.path.join(data_dir, f"{slide_id}.h5")
 
 
 class FeatureBagsDataset(Dataset):
@@ -58,7 +58,7 @@ class FeatureBagsDataset(Dataset):
 
         full_path = get_feature_bag_path(self.data_dir, slide_id)
         with h5py.File(full_path, "r") as hdf5_file:
-            features = hdf5_file["features"][:]
+            features = hdf5_file["feats"][:]
             coords = hdf5_file["coords"][:]
 
         features = torch.from_numpy(features)

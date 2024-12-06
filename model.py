@@ -4,6 +4,8 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+import h5py
+
 
 class Attn_Net_Gated(nn.Module):
     """
@@ -41,12 +43,24 @@ class AttentionNet(nn.Module):
     def __init__(
         self,
         model_size="small",
-        input_feature_size=1024,
+        #input_feature_size=1024,
         dropout=True,
         p_dropout_fc=0.25,
         p_dropout_atn=0.25,
         n_classes=2,
     ):
+        
+        # Dynamically determine input_feature_size from .h5 file
+        def get_input_feature_size(h5_file_path):
+            with h5py.File(h5_file_path, "r") as f:
+                dataset = f["feats"]
+                input_feature_size = dataset.shape[1]
+                return input_feature_size
+
+        self.get_input_feature_size = get_input_feature_size
+
+        input_feature_size = self.get_input_feature_size("train.h5")
+        
         super(AttentionNet, self).__init__()
         size_dict = {
             "micro": [input_feature_size, 384, 128],
